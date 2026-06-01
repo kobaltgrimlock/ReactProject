@@ -20,3 +20,6 @@ website demo : https://zingy-pudding-2c31ec.netlify.app/home
 -npm install  
 -npm start  
 
+## Dashboard
+
+![Home](Screenshot/home.png)
