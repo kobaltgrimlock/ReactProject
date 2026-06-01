@@ -43,5 +43,5 @@ website demo : https://zingy-pudding-2c31ec.netlify.app/home
 
 
 ## Google Authentication Feature
-![Google Authentication Feature](Screenshot/google.PNG)
+![Google Feature](Screenshot/google.PNG)
 
