@@ -25,4 +25,23 @@ website demo : https://zingy-pudding-2c31ec.netlify.app/home
 ![Home](Screenshot/home.PNG)
 
 ## Budget page
-![Budget page](Screenshot/budget.PNG)
+![Budget page](Screenshot/budget.PNG
+
+
+## Flat page
+![Flat page](Screenshot/Flats.PNG)
+
+## Favourite page
+![Favourite page](Screenshot/Fav1.PNG)
+![Favourite page](Screenshot/fav2.PNG)
+
+## Salesperson page
+![Salesperson page](Screenshot/salesperson.PNG)
+
+## Pagination Feature
+![Pagination Feature](Screenshot/pagination.PNG)
+
+
+## Google Authentication Feature
+![Google Authentication Feature](Screenshot/google.PNG)
+
