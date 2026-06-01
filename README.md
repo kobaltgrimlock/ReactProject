@@ -16,7 +16,7 @@ website demo : https://zingy-pudding-2c31ec.netlify.app/home
 - Axios
 
 ## Installation
--cd Grp1ReactProjUpdated-main
--npm install
--npm start
+-cd Grp1ReactProjUpdated-main  
+-npm install  
+-npm start  
 
